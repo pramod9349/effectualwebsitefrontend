@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import axios from "axios";
+// import axios from "axios";
 // import Contactmodel from './contactmodel'
-import Swal from "sweetalert2";
-import { useNavigate } from "react-router-dom";
+// import Swal from "sweetalert2";
+// import { useNavigate } from "react-router-dom";
 
 class contactFooter extends Component {
   render() {
