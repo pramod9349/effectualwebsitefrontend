@@ -26,7 +26,7 @@ class industryengineeringpage extends Component {
           </div>
         </div>
         <div class="lg:absolute lg:inset-y-0 lg:right-20 lg:w-1/3">
-          <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-industry.png" alt="" />
+          <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/engineering.png" alt="" />
         </div>
       </div>
           
@@ -34,7 +34,8 @@ class industryengineeringpage extends Component {
             <h2 class="mb-12 mt-8 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
               Industry Domains       
               </h2> 
-
+             
+    
               <section class="text-white body-font text-xl " style={{ backgroundImage: `url(images/industydomain.jpg)` }}>
   <div class="container px-5 py-12 mx-auto">
    
@@ -185,8 +186,6 @@ class industryengineeringpage extends Component {
               </svg>
             </span>Scientific Instruments
           </a>
-       
-          
         </nav>
       </div>
     </div>

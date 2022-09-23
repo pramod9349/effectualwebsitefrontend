@@ -22,7 +22,7 @@ class informationcommunicationtechnologypage extends Component {
             </div>
           </div>
           <div class="lg:absolute lg:inset-y-0 lg:right-20 lg:w-1/3">
-            <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-itc.png" alt="" />
+            <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/32329-5-technology.png" alt="" />
           </div>
         </div>
         <h2 class="mb-12 mt-8 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">

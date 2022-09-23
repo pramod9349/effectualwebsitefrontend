@@ -25,6 +25,7 @@ function Articlepdf() {
                                             </div>
                                         </div>
                                     </td>
+                                    
                                     <td className="pl-16">
 
                                     </td>
