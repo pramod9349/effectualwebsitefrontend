@@ -14,8 +14,8 @@ class informationcommunicationtechnologypage extends Component {
 
               <main class="mx-auto max-w-5xl px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
                 <div class="sm:text-center lg:text-left">
-                  <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl">
-                    <span class="block xl:inline">Innovation In <span class="block text-white xl:inline">Information & Communication</span> Technology Industry</span>
+                  <h1 class="px-4 text-2xl tracking-tight font-bold text-white sm:text-5xl md:text-4xl py-12">
+                    <p  className='text-center'>Innovation In Information &</p> <p className='text-center' >Communication Technology</p> <p className='text-center'>Industry</p>
                   </h1>
                 </div>
               </main>

@@ -14,9 +14,9 @@ class industryengineeringpage extends Component {
             
           <main class="mx-auto max-w-5xl px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
               <div class="sm:text-center lg:text-left">
-                <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl" >
-                  <span class="block xl:inline">Stay A Step Ahead With The 
-                    <span class="block text-white xl:inline"> Right IP Strategy</span> in the Engineering</span> 
+                <h1 class="px-4 text-2xl tracking-tight font-bold text-white sm:text-5xl md:text-4xl py-12" >
+                  <p className='text-center'>Stay A Step Ahead With The Right </p>
+                    <p className='text-center'>IP Strategy in the Engineering</p>
                  
                 </h1>
                 

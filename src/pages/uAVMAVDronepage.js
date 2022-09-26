@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
-import Locatinproject from '../components/locatinproject';
+
 class uAVMAVDronepage extends Component {
     render() {
         return (
@@ -45,7 +45,6 @@ class uAVMAVDronepage extends Component {
                         </section>
                        
                      
-                        <Locatinproject />
 
                 <Footer />
             </div>

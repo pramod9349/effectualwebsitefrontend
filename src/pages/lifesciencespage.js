@@ -12,10 +12,10 @@ class lifesciencespage extends Component {
         <div class=" mx-auto ">
           <div class="relative z-10 pb-8  sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full ">
             
-            <main class="mx-auto max-w-5xl px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
+            <main class="mx-auto max-w-5xl py-12 px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
               <div class="sm:text-center lg:text-left">
-                <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl">
-                  <span class="block xl:inline">Tailor-Made Solutions for <span class="block text-white xl:inline">Life Sciences</span> Industry</span> 
+                <h1 class="px-4 text-2xl tracking-tight font-bold text-white sm:text-5xl md:text-4xl">
+                  <p className='text-center'>Tailor-Made Solutions for</p> <p className='text-center'>Life Sciences Industry</p>
                 </h1>
               </div>
             </main>

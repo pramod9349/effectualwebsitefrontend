@@ -7,10 +7,11 @@
 .child li a{padding: 10px; color: #000000;}
 ul{list-style: none;margin: 0;padding: 0px; min-width:15em;}
 ul ul ul{left: 100%;top: 0;margin-left:1px;}
-li:hover {background-color: #c4161c; color:#FFFFFF;border-radius: 5px;}
+li:hover {background-color: #bd0c0c; color:#FFFFFF;border-radius: 5px;}
 footer li:hover{
     background-color: unset!important;
 }
+
 li:hover > a { color:#FFFFFF;}
 .parent li:hover { color:#FFFFFF;}
 .expand{font-size:12px;float:right;margin-right:5px;}

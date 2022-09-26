@@ -16,13 +16,13 @@ function Navigation() {
             alt="logo"
           />
         </a>
-        <ul className="flex items-center hidden space-x-8 lg:flex" id="menu">
-          <li className="parent">
-            <a
+        <ul className="flex items-center hidden space-x-8 lg:flex " id="menu">
+          <li className="parent ">
+            <a 
               href="/"
               aria-label="Our product"
               title="Our product"
-              className="font-bold tracking-wide text-gray-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400"
+              className="font-bold tracking-wide text-sky-700  transition-colors duration-200 text-md hover:text-deep-purple-accent-400 "
             >
               Home
             </a>
@@ -32,7 +32,7 @@ function Navigation() {
               href="/"
               aria-label="Our product"
               title="Our product"
-              className="font-bold tracking-wide text-gray-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400"
+              className="font-bold tracking-wide text-sky-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400"
             >
               About
             </a>
@@ -54,7 +54,7 @@ function Navigation() {
               href="/"
               aria-label="Our product"
               title="Our product"
-              className="font-bold tracking-wide text-gray-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400"
+              className="font-bold tracking-wide text-sky-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400"
             >
               Our Brands
             </a>
@@ -82,7 +82,7 @@ function Navigation() {
               href="/"
               aria-label="About us"
               title="About us"
-              className="font-bold tracking-wide text-gray-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400 underline-offset-auto"
+              className="font-bold tracking-wide text-sky-700 transition-colors duration-200 text-md hover:text-deep-purple-accent-400 underline-offset-auto"
             >
               Solutions
             </a>
@@ -335,7 +335,7 @@ function Navigation() {
               href="/"
               aria-label="Product pricing"
               title="Product pricing"
-              className="font-bold text-md tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              className="font-bold text-md tracking-wide text-sky-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
             >
               Expertise Domains
             </a>
@@ -360,7 +360,7 @@ function Navigation() {
               href="/"
               aria-label="About us"
               title="About us"
-              className="font-bold text-md tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
+              className="font-bold text-md tracking-wide text-sky-700 transition-colors duration-200 hover:text-deep-purple-accent-400"
             >
               Effectual Innovation Center
             </a>
@@ -387,7 +387,7 @@ function Navigation() {
               href="/"
               aria-label="About us"
               title="About us"
-              className="font-bold text-md tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400  "
+              className="font-bold text-md tracking-wide text-sky-700 transition-colors duration-200 hover:text-deep-purple-accent-400  "
             >
               Why Us
             </a>
@@ -405,7 +405,7 @@ function Navigation() {
               href="/contact-us"
               aria-label="About us"
               title="About us"
-              className="font-bold text-md tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400 "
+              className="font-bold text-md tracking-wide text-sky-700 transition-colors duration-200 hover:text-deep-purple-accent-400 "
             >
               Contact Us
             </a>
