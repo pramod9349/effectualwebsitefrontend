@@ -35,11 +35,12 @@ class portfoliowhitespaceanalysispage extends Component {
             <section class="text-gray-600 px-16 body-font">
               <div class="container px-5 py-6 mx-auto">
                 <div class="flex flex-wrap w-full mb-20">
-                  <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                  <div class=" w-full mb-6 lg:mb-0">
                     <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">PORTFOLIO & WHITE SPACE ANALYSIS</h1>
                     <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                    <br></br>
                   </div>
-                  <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Get critical patent management insights through a comprehensive analysis of your current product and patent portfolio. Effectual’s Get critical patent management insights through a comprehensive analysis of your current product and patent portfolio. Effectual’s patent portfolio to get a competitive edge in the market. While you are at it, discover related domains with future business potential with a thorough White Space Analysis.</p>
+                  <p class=" w-full leading-relaxed text-gray-500">Big corporates with multiple brands and products sometimes need a comprehensive analysis of their current product portfolio. Effectual’s can help you in figuring out your current strategy and what are the areas that have some huge potential and can be exploited for future needs.</p>
                 </div>
             
               </div>

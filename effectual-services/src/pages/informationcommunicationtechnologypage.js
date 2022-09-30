@@ -14,15 +14,15 @@ class informationcommunicationtechnologypage extends Component {
 
               <main class="mx-auto max-w-5xl px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
                 <div class="sm:text-center lg:text-left">
-                  <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl">
-                    <span class="block xl:inline">Innovation In <span class="block text-white xl:inline">Information & Communication</span> Technology Industry</span>
+                  <h1 class="px-4 text-2xl tracking-tight font-bold text-white sm:text-5xl md:text-4xl py-12">
+                    <p  className='text-center'>Innovation In Information &</p> <p className='text-center' >Communication Technology</p> <p className='text-center'>Industry</p>
                   </h1>
                 </div>
               </main>
             </div>
           </div>
           <div class="lg:absolute lg:inset-y-0 lg:right-20 lg:w-1/3">
-            <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-itc.png" alt="" />
+            <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/32329-5-technology.png" alt="" />
           </div>
         </div>
         <h2 class="mb-12 mt-8 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
@@ -566,7 +566,7 @@ class informationcommunicationtechnologypage extends Component {
 
         <hr></hr>
         <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
-          TEAM ACADEMICS
+          TEAM QUALIFICATION
         </h2>
 
         <section class="hero container max-w-screen-lg mx-auto pb-10">

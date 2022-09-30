@@ -30,21 +30,28 @@ class partneridentificationpage extends Component {
         </div>
       </div>
             
-            <section class="text-gray-600 px-16 body-font">
+            <section class="text-gray-600 px-16 body-font text-justify">
               <div class="container px-5 py-6 mx-auto">
                 <div class="flex flex-wrap w-full mb-20">
-                  <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                  <div class="w-full mb-6 lg:mb-0">
                     <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">PARTNER IDENTIFICATION</h1>
                     <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                    <br></br>
+                  
                   </div>
-                  <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Outsource your innovative ideas and discover partners to collaborate with to execute your idea and realize your vision. Effectual’s Partner Identification team can help in figuring out the best possible collaboration opportunities that can help R&D and innovation leaders to achieve their goals.</p>
+                  
+                  <p class=" w-full leading-relaxed text-gray-500">Sometimes companies outsource their idea and look for partners that they can collaborate with to execute their idea. Effectual’s partner identification team can help in figuring out the best possible collaboration Opportunities that can help R&D and Innovation leaders to achieve their goal. This provides:
+                  <li>1.	Information about Universities, startups, SMEs who are actively working in the requested domain.</li>
+                  <li>2.	Complete SWOT analysis of each recommendation and ranking framework based on the parameters defined.</li>
+                  <li>3.	Suppliers and Production information, etc.</li>
+</p>
                 </div>
             
               </div>
             </section>
             
 
-<h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+<h2 class="mb-6 py-8 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   HOW WE DO IT?     
   </h2> 
 <div class="w-full h-1/3 bg-blue-100 text-center mb-8" >

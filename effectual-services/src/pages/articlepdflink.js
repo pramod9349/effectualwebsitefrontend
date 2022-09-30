@@ -25,6 +25,7 @@ function Articlepdf() {
                                             </div>
                                         </div>
                                     </td>
+                                    
                                     <td className="pl-16">
 
                                     </td>
@@ -37,7 +38,7 @@ function Articlepdf() {
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="http://www.effepro.com/effectual_articles_posts/1654667384026.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -71,7 +72,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1651726182985.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -101,7 +102,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1655275979761.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -131,7 +132,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1655858417037.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -161,7 +162,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1656464903603.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -191,7 +192,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1657110517262.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -222,7 +223,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1657668561076.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -253,7 +254,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1658276410451.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -284,7 +285,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1658894853281.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>
@@ -315,7 +316,7 @@ business objectives
                                     <td>
                                         <p className="px-12 py-4 font-bold text-right text-gray-800"> <a
                                             href="https://effepro.com/effectual_articles_posts/1660106250514.pdf"
-                                            target="_blank">
+                                            target="_blank" rel="noreferrer">
                                             Open pdf
                                         </a></p>
                                     </td>

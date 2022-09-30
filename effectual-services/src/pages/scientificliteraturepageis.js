@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
-import Locatinproject from '../components/locatinproject';
+
 class scientificliteraturepageis extends Component {
     render() {
         return (
@@ -16,10 +16,11 @@ class scientificliteraturepageis extends Component {
               <div class="sm:text-center lg:text-left">
                 <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl">
                   <span class="block xl:inline">Scientific literature </span> 
-                 
+
+
                 </h1>
                 
-               
+                
               </div>
             </main>
           </div>
@@ -42,10 +43,7 @@ class scientificliteraturepageis extends Component {
                         
                           </div>
                         </section>
-                       
-                        
-                        
-<Locatinproject />
+
 
                 <Footer />
             </div>

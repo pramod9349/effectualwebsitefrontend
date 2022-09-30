@@ -308,13 +308,13 @@ class foundersleadershippage extends Component {
 </section>
 
 
-<section class="container pb-4 pt-4 mx-auto bg-white dark:bg-gray-800 mb-8 rounded-xl" style={{backgroundImage: "url(https://tuk-cdn.s3.amazonaws.com/assets/webapp/common/bg_image_lite.png)",
+<section class="container pb-4 pt-4 mx-auto bg-white dark:bg-gray-800 mb-8 rounded-xl" style={{backgroundImage: "url(images/linkedinbackground.jpg)",
         height:'96',
         marginTop:'-5px',
         fontSize:'20px',
         backgroundSize: 'cover',
         backgroundRepeat: 'no-repeat',}}>
-<h1 class="xl:text-4xl mb-8 text-3xl text-center text-gray-800 font-extrabold  mx-auto"><span style={{color: "rgb(0, 86, 161)"}}>Leadership </span> <span class="italic" style={{color: "rgb(196, 23, 27)"}}>Team</span></h1>
+<h1 class="xl:text-4xl mb-8 text-3xl text-center text-gray-800 font-bold  mx-auto"><span className='text-white'>Leadership </span> <span class="text-white" >Team</span></h1>
 
   <div class="flex items-center justify-center">
       <div class="grid gap-32 mt-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -326,7 +326,7 @@ class foundersleadershippage extends Component {
                   <span class="mt-1 text-xl text-white font-bold">VP Strategy</span>
                   <div>
           
-                  <button onClick={learnnishant} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                  <button onClick={learnnishant} className="mx-2 my-2 bg-gray-800 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 font-bold text-xs">Learn More</button>
                   
                 </div>
                 <div >
@@ -345,7 +345,7 @@ class foundersleadershippage extends Component {
                   <h3 class="text-xl font-bold medium text-white">Ram Tenneti</h3>
                   <span class="mt-1 text-xl text-white font-bold">VP Global</span>
                   <div>
-                  <button onClick={learnram} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                  <button onClick={learnram} className="mx-2 my-2 bg-gray-800 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs font-bold">Learn More</button>
                 </div>
                 <div >
                 <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs hover:scale-105">
@@ -362,7 +362,7 @@ class foundersleadershippage extends Component {
                   <h3 class="text-xl font-bold medium text-white ">Rakesh Pandey</h3>
                   <span class="mt-1 text-xl text-white font-bold">VP USA</span>
                   <div>
-                  <button onClick={learnrakesh} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                  <button onClick={learnrakesh} className="mx-2 my-2 bg-gray-800 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs font-bold">Learn More</button>
                 </div>
                 <div >
                 <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs hover:scale-105">
@@ -380,7 +380,7 @@ class foundersleadershippage extends Component {
                   <h3 class="text-xl font-bold medium text-white ">Manoj Poonia</h3>
                   <span class="mt-1 text-xl text-white font-bold">VP Operations</span>
                   <div>
-                  <button onClick={learnmanoj} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                  <button onClick={learnmanoj} className="mx-2 my-2 bg-gray-800 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs font-bold">Learn More</button>
                 </div>
                 <div >
                 <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs hover:scale-105">

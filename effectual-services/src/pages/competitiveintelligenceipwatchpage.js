@@ -33,11 +33,12 @@ class competitiveintelligenceipwatchpage extends Component {
             <section class="text-gray-600 px-16 body-font text-justify">
               <div class="container px-5 py-6 mx-auto">
                 <div class="flex flex-wrap w-full mb-20">
-                  <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+                  <div class="w-full mb-6 lg:mb-0">
                     <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">COMPETITIVE INTELLIGENCE & IP WATCH</h1>
                     <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+                    <br></br>
                   </div>
-                  <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Innovation is driven by intelligence. Track your competitors, not just for gaining an edge, but also to keep your fingers on the pulse of your business’s technology landscape. Analyze competitions’ IP trends and R&D strategy to plan future product development and create your own innovation pipeline.</p>
+                  <p class="lg:w w-full leading-relaxed text-gray-500">With multiple companies working in the same industry and developing multiple products it's hard to keep a track of current industry trend. With Effectual’s CI team, we can help you in figuring out how you stack up against your competitor. We analyze their IP filing trend as well as their R&D and technology strategies for future product development that is of your interest. This gives you an edge over your competitor and drives your future innovation pipeline.</p>
                 </div>
             
               </div>

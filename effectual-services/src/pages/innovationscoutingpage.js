@@ -20,7 +20,6 @@ class innovationscoutingpage extends Component {
  
                 </h1>
                 
-               
               </div>
             </main>
           </div>
@@ -37,16 +36,19 @@ class innovationscoutingpage extends Component {
                     <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">INNOVATION SCOUTING</h1>
                     <div class="h-1 w-20 bg-indigo-500 rounded"></div>
                   </div>
-                  <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">In the ever-shifting global demand for new products, companies are constantly looking for ways to explore new ideas that go beyond their internal resources. Effectual’s Innovation Scouting team can help you in figuring out novel technological solutions to innovation challenges and back them up with scientific evidence in the form of patent and non-patent literature, and technology insights to test them out in pilot applications.</p>
+                  <br></br>
+                  <p class=" w-full leading-relaxed text-gray-500">In the ever-shifting and global demand for new products, companies are constantly looking for ways to explore new ideas that go beyond their internal resources. Effectual’s scouting team can help you in figuring out a novel technological solution to a given innovation challenge and back it up with enough scientific evidence (PL&NPL) and technology insights to test it out in pilot applications. With the help of our current strategic database library we can help you in:
+                  <li >Scouting for new & accumulate known solutions from our in-house pool of databases.</li>
+                  <li>Providing cross innovation support.</li>
+                  <li>Providing product analysis & Innovation indicators.</li>
+                  <li>Looking for future trends for the suggested solution and recommending the best possible outcome with current developing applications.</li>
+                  <li>Recent updates on new product launches, market rumors, etc.</li>
+                  <li>Comparative analysis of current technology and suggested improvement. </li>
+</p>
                 </div>
             
               </div>
             </section>
-           
-
-           
-       
-
 
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   HOW WE DO IT?     

@@ -14,9 +14,9 @@ class industryengineeringpage extends Component {
             
           <main class="mx-auto max-w-5xl px-4 sm:mt-8 sm:px-6 md:mt-8  lg:px-8 xl:mt-12">
               <div class="sm:text-center lg:text-left">
-                <h1 class="px-12 text-2xl tracking-tight font-extrabold text-white sm:text-5xl md:text-5xl" >
-                  <span class="block xl:inline">Stay A Step Ahead With The 
-                    <span class="block text-white xl:inline"> Right IP Strategy</span> in the Engineering</span> 
+                <h1 class="px-4 text-2xl tracking-tight font-bold text-white sm:text-5xl md:text-4xl py-12" >
+                  <p className='text-center'>Stay A Step Ahead With The Right </p>
+                    <p className='text-center'>IP Strategy in the Engineering</p>
                  
                 </h1>
                 
@@ -26,7 +26,7 @@ class industryengineeringpage extends Component {
           </div>
         </div>
         <div class="lg:absolute lg:inset-y-0 lg:right-20 lg:w-1/3">
-          <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-industry.png" alt="" />
+          <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/engineering.png" alt="" />
         </div>
       </div>
           
@@ -34,7 +34,8 @@ class industryengineeringpage extends Component {
             <h2 class="mb-12 mt-8 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
               Industry Domains       
               </h2> 
-
+             
+    
               <section class="text-white body-font text-xl " style={{ backgroundImage: `url(images/industydomain.jpg)` }}>
   <div class="container px-5 py-12 mx-auto">
    
@@ -185,8 +186,6 @@ class industryengineeringpage extends Component {
               </svg>
             </span>Scientific Instruments
           </a>
-       
-          
         </nav>
       </div>
     </div>
@@ -204,7 +203,7 @@ class industryengineeringpage extends Component {
 
 <hr></hr>
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
-  TEAM ACADEMICS     
+  TEAM QUALIFICATION    
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">

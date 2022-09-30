@@ -19,18 +19,18 @@ function activeTab(thistab) {
 export default function index() {
 
   return (
-    <div className="bg-gray-900  py-4 overflow-hidden" >
+    <div className=" py-4 overflow-hidden" >
 
       <div className="flex justify-center items-center flex-col py-6">
-        <h1 className="text-2xl md:text-4xl 2xl:text-5xl leading-10 text-gray-200"><span className="font-bold" >Our</span> <span style={{ color: "#c4171b" }} className="italic">Clients</span></h1>
+        <h1 className="text-2xl md:text-4xl 2xl:text-5xl leading-10 text-indigo-900"><span className="font-bold" >Our</span> <span  className="font-bold text-red-700">Clients</span></h1>
 
 
         <div class="justify-between py-12 w-3/4 flex-wrap hidden sm:block">
-          <div class="xl:w-full xl:mx-0 rounded bg-gray-200 dark:bg-gray-800 h-12 shadow">
+          <div class="xl:w-full xl:mx-0 rounded  h-12 shadow">
             <ul class="flex  h-full">
-              <li onClick={() => activeTab("first")} tabindex="0" class="focus:outline-none w-1/3 dark:text-white dark:hover:text-white focus:text-white text-sm text-white flex justify-center h-full px-5 bg-indigo-700 py-4   font-normal cursor-pointer">Law Firms</li>
-              <li onClick={() => activeTab("second")} tabindex="0" class="focus:outline-none w-1/3 dark:text-white dark:hover:text-white focus:text-white text-sm text-white h-full flex justify-center py-4 px-5 bg-red-700   font-normal hover:text-white cursor-pointer">Start-up's, SME's & Fortune 1000's</li>
-              <li onClick={() => activeTab("third")} tabindex="0" class="focus:outline-none w-1/3 dark:text-white dark:hover:text-white focus:text-white text-sm text-white h-full flex justify-center py-4 px-5 bg-indigo-700   font-normal hover:text-white cursor-pointer">Universities & Research Institutes</li>
+              <li onClick={() => activeTab("first")} tabindex="0" class="focus:outline-none w-1/3 rounded-2xl dark:text-white dark:hover:text-white focus:text-white text-sm text-white flex justify-center h-full px-5 bg-slate-700 py-4   font-normal cursor-pointer">Law Firms</li>
+              <li onClick={() => activeTab("second")} tabindex="0" class="focus:outline-none w-1/3 rounded-2xl  dark:text-white dark:hover:text-white focus:text-white text-sm text-white h-full flex justify-center py-4 px-5 bg-red-700   font-normal hover:text-white cursor-pointer">Start-up's, SME's & Fortune 1000's</li>
+              <li onClick={() => activeTab("third")} tabindex="0" class="focus:outline-none w-1/3 rounded-2xl  dark:text-white dark:hover:text-white focus:text-white text-sm text-white h-full flex justify-center py-4 px-5 bg-slate-700   font-normal hover:text-white cursor-pointer">Universities & Research Institutes</li>
 
             </ul>
           </div>
@@ -79,52 +79,52 @@ export default function index() {
 
           className="swiper mySwiper">
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm1.jpg" alt="client1" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm1.jpg" alt="client1" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm2.jpg" alt="client2" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm2.jpg" alt="client2" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm3.jpg" alt="client3" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm3.jpg" alt="client3" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm4.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm4.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm5.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm5.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm6.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm6.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm7.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm7.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm8.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm8.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm9.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm9.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm10.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm10.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm11.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm11.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm12.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm12.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm13.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm13.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm14.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm14.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm15.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm15.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm16.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/law-firm16.jpg" alt="client4" /></div>
           </SwiperSlide>
         </Swiper>
 
@@ -171,40 +171,40 @@ export default function index() {
 
           className="swiper mySwiper" style={{ display: "none" }}>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup1.jpg" alt="client1" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup1.jpg" alt="client1" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup2.jpg" alt="client2" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup2.jpg" alt="client2" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup3.jpg" alt="client3" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup3.jpg" alt="client3" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup4.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup4.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup5.jpg" alt="client1" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup5.jpg" alt="client1" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup6.jpg" alt="client2" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup6.jpg" alt="client2" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup7.jpg" alt="client3" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup7.jpg" alt="client3" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup8.jpg" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup8.jpg" alt="client4" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup9.png" alt="client1" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup9.png" alt="client1" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup10.png" alt="client2" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup10.png" alt="client2" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup11.png" alt="client3" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup11.png" alt="client3" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup12.png" alt="client4" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/startup12.png" alt="client4" /></div>
           </SwiperSlide>
 
         </Swiper>
@@ -252,13 +252,13 @@ export default function index() {
 
           className="swiper mySwiper" style={{ display: "none" }}>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-1.jpg" alt="client1" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-1.jpg" alt="client1" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-2.jpg" alt="client2" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-2.jpg" alt="client2" /></div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
-            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-3.jpg" alt="client3" /></div>
+            <div class="px-10 py-6 text-center transition duration-300 transform  rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="images/clients/univ-3.jpg" alt="client3" /></div>
           </SwiperSlide>
 
         </Swiper>
@@ -327,7 +327,6 @@ export default function index() {
         `}
       </style>
     </div>
-
 
 
   )
